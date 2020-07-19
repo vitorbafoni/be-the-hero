@@ -16,27 +16,27 @@ Be The Hero
 </p>
 
 <div>
-  <img src="Prints/01 - Logon.png" alt="demo" height="500" width="100%">
+  <img src="prints/01 - Logon.png" alt="demo" height="500" width="100%">
   <br>
   <hr>
   <br>
-  <img src="Prints/02 - Register.png" alt="demo" height="500" width="100%">
+  <img src="prints/02 - Register.png" alt="demo" height="500" width="100%">
   <br>
   <hr>
   <br>
-  <img src="Prints/03 - Home.png" alt="demo" height="500" width="100%">
+  <img src="prints/03 - Home.png" alt="demo" height="500" width="100%">
   <br>
   <hr>
   <br>
-  <img src="Prints/04 - Criar caso.png" alt="demo" height="500" width="100%">
+  <img src="prints/04 - Criar caso.png" alt="demo" height="500" width="100%">
   <br>
   <hr>
   <br>
-  <img src="Prints/05 - Registrar caso.png" alt="demo" height="500" width="100%">
+  <img src="prints/05 - Registrar caso.png" alt="demo" height="500" width="100%">
   <br>
   <hr>
   <br>
-  <img src="Prints/06 - Listagem do caso.png" alt="demo" height="500" width="100%">
+  <img src="prints/06 - Listagem do caso.png" alt="demo" height="500" width="100%">
 </div>
 
 ## Features
